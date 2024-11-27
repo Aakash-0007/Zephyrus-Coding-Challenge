@@ -1,9 +1,9 @@
 # Zephyrus-Coding-Challenge
 
-Overview
+Overview: 
 This repository contains my solutions to the coding challenge for the Front-End Developer position at Zephyrus Engineering Limited. The tasks assess basic front-end skills in JavaScript, HTML, and CSS.
 
-Tasks
+# Tasks
 
 # Task 1: Reverse String (JavaScript)
 A function that takes a string and returns it reversed.
